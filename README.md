@@ -1,4 +1,31 @@
-# Task list
+# Todo list
+
+
+
+## Demo
+
+https://jaroslaw-kusicielek.github.io/todo-list-react/
+
+## Description
+
+This is a simple website where you can create your own to-do list.
+
+Basic website functionalities:
+- adding task
+- removing task 
+- marking of the completed task
+- marking all completed tasks
+- hiding done tasks
+
+## Used Technologies
+- HTML
+- CSS
+- JavaScript
+- Media queries
+- ES6
+- BEM
+- GIT
+- React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
