@@ -1,6 +1,6 @@
 # Todo list
 
-
+![photo of my webside](public/images/readme_image.jpg)
 
 ## Demo
 
